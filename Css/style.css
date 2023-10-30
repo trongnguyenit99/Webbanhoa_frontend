@@ -1,0 +1,11 @@
+body{
+    background-image:url(../Images/hinh-nen-hoa-huong-duong-dep-5.jpg)
+}
+.startPage-ahref{
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+}
+body>div>div h3{
+	text-align:center;
+}
